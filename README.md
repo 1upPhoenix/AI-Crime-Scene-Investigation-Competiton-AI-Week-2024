@@ -17,7 +17,7 @@ Tasks:
 - Use entity recognition to uncover important names, places, or dates.
 
 # Challenge 2: AI-Based Clue Identification in Images
-- Analyze crime scene photographs or surveillance images to uncover potential leads.
+Analyze crime scene photographs or surveillance images to uncover potential leads.
 
 Tasks:
 - Detect objects or people of interest in images.
