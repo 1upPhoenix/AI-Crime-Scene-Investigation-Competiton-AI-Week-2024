@@ -12,12 +12,12 @@ The competition not only tests technical skills but also promotes innovative thi
 Analyze witness statements to extract crucial information that could help locate the missing person.
 
 Tasks:
-Extract keywords and keyphrases to identify critical details.
-Perform sentiment and tone analysis to evaluate witness reliability.
-Use entity recognition to uncover important names, places, or dates.
+- Extract keywords and keyphrases to identify critical details.
+- Perform sentiment and tone analysis to evaluate witness reliability.
+- Use entity recognition to uncover important names, places, or dates.
 
 # Challenge 2: AI-Based Clue Identification in Images
-Analyze crime scene photographs or surveillance images to uncover potential leads.
+- Analyze crime scene photographs or surveillance images to uncover potential leads.
 
 Tasks:
 Detect objects or people of interest in images.
