@@ -71,4 +71,4 @@ Learning Outcomes:
 # Acknowledgments
 This competition is designed to inspire innovation and creativity in applying AI to forensic science. Special thanks to all contributors and participants for making this event a success!
 
-#Let the investigation begin! 🔍
+# Let the investigation begin! 🔍
