@@ -2,9 +2,9 @@
 Unleash the power of artificial intelligence to solve complex forensic challenges! This competition combines cutting-edge AI technologies with real-world investigative scenarios to simulate the challenges of crime-solving. Participants will apply techniques in natural language processing (NLP), computer vision, digital forensics, and predictive analytics to tackle a series of engaging challenges designed to test their problem-solving skills and creativity.
 
 # Introduction
-The AI Crime Scene Investigation Competition is a multi-challenge event where participants must use AI techniques to analyze evidence and solve a fictional missing person case. Each challenge is crafted to mimic real-world investigative scenarios, such as decoding encrypted messages, analyzing digital footprints, and identifying clues from witness testimonies or images.
+- The AI Crime Scene Investigation Competition is a multi-challenge event where participants must use AI techniques to analyze evidence and solve a fictional missing person case. Each challenge is crafted to mimic real-world investigative scenarios, such as decoding encrypted messages, analyzing digital footprints, and identifying clues from witness testimonies or images.
 
-The competition not only tests technical skills but also promotes innovative thinking in applying AI to the domain of forensic science.
+- The competition not only tests technical skills but also promotes innovative thinking in applying AI to the domain of forensic science.
 
 # Challenges
 
@@ -63,12 +63,13 @@ Follow the instructions for each challenge located in their respective folders.
 Submit your solutions by uploading them to your forked repository or through the designated submission portal.
 
 # Technologies Used
-Python
-Machine Learning Frameworks: TensorFlow, PyTorch
-NLP Libraries: SpaCy, NLTK, Transformers
-Computer Vision Libraries: OpenCV, YOLO, Detectron2
-Contribution Guidelines
-We welcome contributions to improve this competition! Whether it’s adding new challenges, enhancing existing ones, or fixing bugs, feel free to open a pull request or submit an issue.
+- Python
+- Machine Learning Frameworks: TensorFlow, PyTorch
+- NLP Libraries: SpaCy, NLTK, Transformers
+- Computer Vision Libraries: OpenCV, Detectron2
+
+# Contribution Guidelines
+- We welcome contributions to improve this competition! Whether it’s adding new challenges, enhancing existing ones, or fixing bugs, feel free to open a pull request or submit an issue.
 
 # Acknowledgments
-This competition was designed to inspire innovation and creativity in AI applications for forensic science. Special thanks to all contributors and participants who help make this event successful.
+- This competition was designed to inspire innovation and creativity in AI applications for forensic science. Special thanks to all contributors and participants who help make this event successful.
