@@ -1,4 +1,4 @@
-# AI-Crime-Scene-Investigation-Competiton-AI-Week-2024
+# AI Crime Scene Investigation Competiton AI Week 2024
 Unleash the power of artificial intelligence to solve complex forensic challenges! This competition combines cutting-edge AI technologies with real-world investigative scenarios to simulate the challenges of crime-solving. Participants will apply techniques in natural language processing (NLP), computer vision, digital forensics, and predictive analytics to tackle a series of engaging challenges designed to test their problem-solving skills and creativity.
 
 # Introduction
