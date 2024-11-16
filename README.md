@@ -8,8 +8,8 @@ The competition not only tests technical skills but also promotes innovative thi
 
 # Challenges
 
-# Challenge 1: Witness Testimony Analysis with NLP
-Analyze witness statements to extract crucial information that could help locate the missing person.
+# Challenge 1: Testimony Analysis 🗣️📋
+Analyze witness testimonies to extract critical insights using natural language processing (NLP) techniques. This challenge focuses on identifying keywords, sentiment, named entities, and detecting potential lies in witness statements.
 
 Tasks:
 - Extract keywords and keyphrases to identify critical details.
@@ -24,29 +24,30 @@ Tasks:
 - Perform facial recognition to match faces to known individuals.
 - Identify anomalies or tampering in crime scene images.
 
-# Challenge 3: Digital Footprint Pattern Recognition
-Uncover patterns in the missing person’s digital activities to reveal potential trails.
+# Challenge 3: Anomaly Detection in Online Activity 🌐🔍
+Analyze and classify online search activity to detect anomalies or suspicious behavior using advanced machine learning techniques. This challenge highlights the application of feature engineering, handling imbalanced data, and fine-tuning models for optimal performance.
 
 Tasks:
-- Analyze timestamped data for trends or anomalies.
-- Recognize communication patterns or behavioral changes.
-- Map social networks to identify connections.
+- Feature engineering and keyword detection in textual data.
+- Managing imbalanced datasets using SMOTE.
+- Hyperparameter optimization with GridSearchCV.
+- Building robust machine learning pipelines for anomaly detection.
 
-# Challenge 4: AI-Powered Text Message Decoding (XOR Cipher)
-Decode encrypted or disguised messages exchanged before the disappearance.
-
-Tasks:
-- Decrypt messages using the XOR cipher to uncover hidden information.
-- Identify text patterns and clues within decrypted content.
-- Analyze the intent behind the messages, such as warnings or requests for help.
-
-# Challenge 5: Predicting the Missing Person’s Next Location
-Predict the next possible location of the missing person based on available clues.
+# Challenge 4: Decrypting Encrypted Communications 🔒💬
+Decrypt messages exchanged between individuals to uncover hidden information critical to the investigation. Participants will work with XOR-based encryption and learn how to reverse engineer the cipher using keys.
 
 Tasks:
-- Analyze movement patterns and predict likely routes or destinations.
-- Use behavioral analysis to simulate potential scenarios.
-- Incorporate geographic constraints to refine predictions.
+- Implementing XOR-based encryption and decryption.
+- Parsing and processing data from CSV files.
+- Automating tasks involving encrypted data handling.
+
+# Challenge 5: Predicting the Suspect's Location 🌍🏚️
+Use a trained machine learning model to predict the suspect's location based on various environmental and physiological conditions. Participants will interact with the model by providing binary inputs for each feature and interpreting the results.
+
+Tasks:
+Learn how machine learning models are used in decision-making processes.
+Understand the importance of feature engineering and input data alignment.
+Experience practical implementations of model-based predictions in Python.
 
 # Why Participate?
 - Skill Enhancement: Apply your AI and machine learning knowledge to realistic scenarios.
