@@ -11,23 +11,23 @@ The competition not only tests technical skills but also promotes innovative thi
 # Challenge 1: Testimony Analysis 🗣️📋
 Analyze witness testimonies to extract critical insights using natural language processing (NLP) techniques. This challenge focuses on identifying keywords, sentiment, named entities, and detecting potential lies in witness statements.
 
-Tasks:
+Learning Outcomes:
 - Extract keywords and keyphrases to identify critical details.
 - Perform sentiment and tone analysis to evaluate witness reliability.
 - Use entity recognition to uncover important names, places, or dates.
 
-# Challenge 2: AI-Based Clue Identification in Images
-Analyze crime scene photographs or surveillance images to uncover potential leads.
+# Challenge 2: The Untold Story 🕵️‍♂️🔍
+Analyze a series of images to uncover hidden clues and piece together critical aspects of the investigation’s storyline.
 
-Tasks:
-- Detect objects or people of interest in images.
-- Perform facial recognition to match faces to known individuals.
-- Identify anomalies or tampering in crime scene images.
+Learning Outcomes:
+- Practice extracting meaningful insights from visual data.
+- Develop logical connections between seemingly unrelated pieces of evidence.
+- Enhance their ability to think critically under investigative scenarios.
 
 # Challenge 3: Anomaly Detection in Online Activity 🌐🔍
 Analyze and classify online search activity to detect anomalies or suspicious behavior using advanced machine learning techniques. This challenge highlights the application of feature engineering, handling imbalanced data, and fine-tuning models for optimal performance.
 
-Tasks:
+Learning Outcomes:
 - Feature engineering and keyword detection in textual data.
 - Managing imbalanced datasets using SMOTE.
 - Hyperparameter optimization with GridSearchCV.
@@ -36,7 +36,7 @@ Tasks:
 # Challenge 4: Decrypting Encrypted Communications 🔒💬
 Decrypt messages exchanged between individuals to uncover hidden information critical to the investigation. Participants will work with XOR-based encryption and learn how to reverse engineer the cipher using keys.
 
-Tasks:
+Learning Outcomes:
 - Implementing XOR-based encryption and decryption.
 - Parsing and processing data from CSV files.
 - Automating tasks involving encrypted data handling.
@@ -44,7 +44,7 @@ Tasks:
 # Challenge 5: Predicting the Suspect's Location 🌍🏚️
 Use a trained machine learning model to predict the suspect's location based on various environmental and physiological conditions. Participants will interact with the model by providing binary inputs for each feature and interpreting the results.
 
-Tasks:
+Learning Outcomes:
 Learn how machine learning models are used in decision-making processes.
 Understand the importance of feature engineering and input data alignment.
 Experience practical implementations of model-based predictions in Python.
